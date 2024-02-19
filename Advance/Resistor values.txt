@@ -1,0 +1,6 @@
+Resistor values
+
+1) 4702 - 47kohms
+2) 1802 - 18kohms
+3) 104 - 100kohms
+4) 1002 - 10kohms
