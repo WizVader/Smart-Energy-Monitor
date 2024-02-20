@@ -2,6 +2,8 @@
 
 # ELECTENG 209 Project Repository
 
+For the final implementation. Head over to Basic -> Final Implementation
+
 ## 🎯 Design Specifications
 
 | Parameter                        | Value                                       |
